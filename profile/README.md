@@ -27,21 +27,21 @@ Below is the map to our laboratory's digital assets.
 | Repository | Description |
 | :--- | :--- |
 | **[`wetlab-protocols`](https://github.com/CBTMLDU/wetlab-protocols)** | Validated SOPs for biochemistry, molecular biology, and cell culture. |
-| **[`drylab-workflows`](/drylab-workflows)** | Bioinformatics pipelines (Nextflow/Snakemake) and analysis environments. |
-| **[`code`](/code)** | General utility scripts, statistical tools, and custom software packages. |
+| **[`drylab-workflows`](https://github.com/CBTMLDU/drylab-workflows)** | Bioinformatics pipelines (Nextflow/Snakemake) and analysis environments. |
+| **[`code`](https://github.com/CBTMLDU/code)** | General utility scripts, statistical tools, and custom software packages. |
 
 ### 📂 Projects & Data
 | Repository | Description |
 | :--- | :--- |
-| **[`clinical-projects`](/clinical-projects)** | Active research studies, experiment logs, and specific analysis code. |
-| **[`datasets`](/datasets)** | Public datasets, reference genomes, and metadata standards. **(NO PHI)** |
+| **[`clinical-projects`](https://github.com/CBTMLDU/projects)** | Active research studies, experiment logs, and specific analysis code. |
+| **[`datasets`](https://github.com/CBTMLDU/datasets)** | Public datasets, reference genomes, and metadata standards. **(NO PHI)** |
 
 ### 📘 Operations & Training
 | Repository | Description |
 | :--- | :--- |
-| **[`lab-manual`](/lab-manual)** | The "Constitution" of the lab. Policies, roles, and safety guidelines. |
-| **[`training-and-onboarding`](/training-and-onboarding)** | Curricula for new members, tutorials, and required reading lists. |
-| **[`resources`](/resources)** | Branding assets (logos), presentation templates, and reference libraries. |
+| **[`lab-manual`](https://github.com/CBTMLDU/lab-manuals)** | The "Constitution" of the lab. Policies, roles, and safety guidelines. |
+| **[`training-and-onboarding`](https://github.com/CBTMLDU/training-and-onboarding)** | Curricula for new members, tutorials, and required reading lists. |
+| **[`resources`](https://github.com/CBTMLDU/resources)** | Assets and reference libraries. |
 
 ### 💼 Administration & Output
 | Repository | Description |

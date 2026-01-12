@@ -1,4 +1,4 @@
-# [Insert Lab Name]
+# CBTML
 ### Clinical Biochemistry & Translational Medicine
 
 **🔬 Bridging the gap between the bench and the bedside.**
@@ -6,14 +6,15 @@
 ---
 
 ## 🏛️ About the Lab
-Welcome to the digital headquarters of the **[Insert Lab Name]**. We are a multidisciplinary research group focused on **[Insert 1-sentence focus, e.g., identifying novel biomarkers for metabolic disorders]**. This organization serves as the central hub for our protocols, datasets, and research workflows.
+Welcome to the digital headquarters of the **CBTML**. We are a multidisciplinary research group focused on **[Insert 1-sentence focus, e.g., identifying novel biomarkers for metabolic disorders]**. This organization serves as the central hub for our protocols, datasets, and research workflows.
 
 ### 📋 Key Information
 | Role | Details |
 | :--- | :--- |
 | **Founder & PI** | **[Insert Name/Title]** |
 | **Founding Date** | [Month, Year] |
-| **Affiliation** | [Insert University/Hospital] |
+| **Co-PI** | Md. Ismail Hosen <br> Md. Omar Faruk|
+| **Affiliation** | University of Dhaka |
 | **Lab Website** | [Insert Link] |
 | **Contact** | [Insert Email] |
 
@@ -66,4 +67,4 @@ If you have just joined the lab, please follow these steps:
 * **[Project Name B]:** Automated Pipeline for Variant Calling in Oncology (2024) - *[Link to Paper]*
 
 ---
-*© [Current Year] [Insert Lab Name]. All materials herein are for research purposes only.*
+*© [2026] [CBTML]. All materials herein are for research purposes only.*

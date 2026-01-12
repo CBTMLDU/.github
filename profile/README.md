@@ -26,7 +26,7 @@ Below is the map to our laboratory's digital assets.
 ### 🧬 Protocols & Methods
 | Repository | Description |
 | :--- | :--- |
-| **[`wetlab-protocols`](/wetlab-protocols)** | Validated SOPs for biochemistry, molecular biology, and cell culture. |
+| **[`wetlab-protocols`]([/wetlab-protocols](https://github.com/CBTMLDU/wetlab-protocols))** | Validated SOPs for biochemistry, molecular biology, and cell culture. |
 | **[`drylab-workflows`](/drylab-workflows)** | Bioinformatics pipelines (Nextflow/Snakemake) and analysis environments. |
 | **[`code`](/code)** | General utility scripts, statistical tools, and custom software packages. |
 

@@ -46,7 +46,7 @@ Below is the map to our laboratory's digital assets.
 ### 💼 Administration & Output
 | Repository | Description |
 | :--- | :--- |
-| **[`grants-and-strategy`](https://github.com/CBTMLDU/grnats-and-strategy)** | *[Private]* Proposal drafts, strategic plans, and funding documents. |
+| **[`grants-and-strategy`](https://github.com/CBTMLDU/grants-and-strategy)** | *[Private]* Proposal drafts, strategic plans, and funding documents. |
 | **[`publications`](https://github.com/CBTMLDU/publications)** | Links to Published papers, articles, posters, manuscript drafts, figure source files, and latex templates. |
 
 ---

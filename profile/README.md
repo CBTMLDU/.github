@@ -54,7 +54,7 @@ Below is the map to our laboratory's digital assets.
 ## 🆕 For New Members
 If you have just joined the lab, please follow these steps:
 1.  Read the **Mission Statement** above.
-2.  Go to the **[`training-and-onboarding`](/training-and-onboarding)** repository.
+2.  Go to the **[`training-and-onboarding`](https://github.com/CBTMLDU/training-and-onboarding)** repository.
 3.  Complete the `new-member-checklist.md`.
 4.  **Security:** Ensure 2-Factor Authentication (2FA) is enabled on your account.
 

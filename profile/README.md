@@ -33,7 +33,7 @@ Below is the map to our laboratory's digital assets.
 ### 📂 Projects & Data
 | Repository | Description |
 | :--- | :--- |
-| **[`clinical-projects`](https://github.com/CBTMLDU/projects)** | Active research studies, experiment logs, and specific analysis code. |
+| **[`projects`](https://github.com/CBTMLDU/projects)** | Active research studies, experiment logs, and specific analysis code. |
 | **[`datasets`](https://github.com/CBTMLDU/datasets)** | Public datasets, reference genomes, and metadata standards. **(NO PHI)** |
 
 ### 📘 Operations & Training

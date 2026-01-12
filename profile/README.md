@@ -11,7 +11,7 @@ Welcome to the digital headquarters of the **CBTML**. We are a multidisciplinary
 ### 📋 Key Information
 | Role | Details |
 | :--- | :--- |
-| **Founder & PI** | **DR. Md. Shekhar Hossain** |
+| **Founder & PI** | **Dr. Md. Shekhar Hossain** |
 | **Founding Date** | [Month, Year] |
 | **Co-PI** | **Dr. Md. Ismail Hosen <br> Dr. Md. Omar Faruk**|
 | **Affiliation** | University of Dhaka |

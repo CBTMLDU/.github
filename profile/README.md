@@ -41,6 +41,7 @@ Below is the map to our laboratory's digital assets.
 | :--- | :--- |
 | **[`lab-manual`](https://github.com/CBTMLDU/lab-manuals)** | The "Constitution" of the lab. Policies, roles, and safety guidelines. |
 | **[`training-and-onboarding`](https://github.com/CBTMLDU/training-and-onboarding)** | Curricula for new members, tutorials, and required reading lists. |
+| **[`lab-infrastructure`](https://github.com/CBTMLDU/lab-insfrastructure)** | Documentation of laboratory infrastructure, including facility layout, equipment, cold-chain systems, utilities, safety, and operational support systems. |
 | **[`resources`](https://github.com/CBTMLDU/resources)** | Assets and reference libraries. |
 
 ### 💼 Administration & Output

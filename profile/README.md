@@ -50,8 +50,17 @@ Below is the map to our laboratory's digital assets.
 | **[`grants-and-strategy`](https://github.com/CBTMLDU/grants-and-strategy)** | *[Private]* Proposal drafts, strategic plans, and funding documents. |
 | **[`publications`](https://github.com/CBTMLDU/publications)** | Links to Published papers, articles, posters, manuscript drafts, figure source files, and latex templates. |
 
----
+## 💡 Exchanging Ideas & Knowledge
+We believe that translational medicine thrives on collaboration. Use these platforms to share insights, troubleshoot protocols, and discuss the latest research.
 
+| Platform | Purpose |
+| :--- | :--- |
+| **[`journal-Club`](https://github.com/CBTMLDU/literature-review/discussions)** | Weekly deep-dives into high-impact papers (e.g., *Nature Genetics*, *Anticancer Research*).  |
+| **[`protocol-Q&A`](https://github.com/CBTMLDU/wetlab-protocols/discussions)** | Troubleshooting bench techniques, from BirA systems to GST pull-downs.  |
+| **[`bioinfo-Support`](https://github.com/CBTMLDU/drylab-workflows/discussions)** | Resolving R errors, DESeq2 parameters, and DEGreport clustering issues. |
+| **[`open-Brainstorming`](https://github.com/orgs/CBTMLDU/discussions)** | General space for new research ideas, translational proposals, and lab updates.  |
+
+---
 ## 🆕 For New Members
 If you have just joined the lab, please follow these steps:
 1.  Read the **Mission Statement** above.
@@ -66,6 +75,10 @@ If you have just joined the lab, please follow these steps:
 
 * **[Project Name A]:** Identification of Serum Biomarkers in Type 2 Diabetes (2025) - *[Link to Paper]*
 * **[Project Name B]:** Automated Pipeline for Variant Calling in Oncology (2024) - *[Link to Paper]*
+
+---
+
+
 
 ---
 *© [2026] [CBTML]. All materials herein are for research purposes only.*

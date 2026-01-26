@@ -77,7 +77,42 @@ If you have just joined the lab, please follow these steps:
 * **[Project Name B]:** Automated Pipeline for Variant Calling in Oncology (2024) - *[Link to Paper]*
 
 ---
+## 🛠️ Lab Maintenance & Contribution Guide
 
+To ensure our research remains reproducible and organized, all members of the **CBTML Lab** should follow these guidelines when updating this repository.
+
+---
+
+---
+
+### 📝 How to Contribute
+
+#### 1. Small Updates (Web Interface)
+For quick fixes like typos, adding a link, or updating a meeting date:
+1. Navigate to the file on GitHub.
+2. Click the **pencil icon** (Edit this file).
+3. Make your changes and click **Commit changes...**.
+4. Use a descriptive commit message (e.g., `Update Journal Club schedule for Feb 2026`).
+
+#### 2. Adding New Projects (Folder Level)
+When starting a new analysis or project:
+* **Folder Naming:** Use `YYYY-MM-ShortDescription` (e.g., `2026-01-DESeq2-Cancer-Analysis`).
+* **Documentation:** Every new folder **must** include a `README.md` that lists:
+    * The goal of the project.
+    * Tools/Software versions used (e.g., R 4.4.2, `ensembldb` v2.26).
+    * Data sources (NCBI/Ensembl accessions).
+
+#### 3. Handling Data & Scripts
+* **Scripts:** Keep your R/Python scripts clean and commented. Use relative paths.
+* **Large Files:** **Do not** upload large raw data files (CSV > 50MB, FASTQ, BAM) directly to GitHub. 
+    * Upload them to the lab's shared drive or cloud storage.
+    * Include a link to the data in your project's `README.md`.
+
+---
+
+### 🧬 Bioinformatics Best Practices
+* **ID Mapping:** When sharing results, include both **Ensembl Gene IDs** and **Gene Symbols** to avoid versioning confusion.
+* **Version Control:** If you are editing
 
 
 ---
